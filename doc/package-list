@@ -1,0 +1,5 @@
+com.smg.dao
+com.smg.dao.impl
+com.smg.entity
+com.smg.servlet
+com.smg.util
